@@ -30,6 +30,11 @@
 3. Later on, put the password for credential/auth.
 <img src="https://i.imgur.com/WQr9N1A.png" alt="ss" width="40%"/>
 
+#### final Step 
+For Upload Any application To Open on this Server
+Upload your File On resource On this Repository 
+For access from server : Open This Location : D:\a\Your Repository Name\Your Files Or Apps Here
+
 ## Screenshots
 <img src="https://i.imgur.com/vgD2owk.png" alt="ss" width="90%"/>
 <img src="https://i.imgur.com/8XBLUqf.png" alt="ss" width="90%"/>
