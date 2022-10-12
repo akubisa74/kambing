@@ -20,7 +20,7 @@ jobs:
 
         Invoke-WebRequest https://raw.githubusercontent.com/Usercodersystem/Ngrokrdp/main/resources/start.bat -OutFile start.bat
 
-        Invoke-WebRequest https://raw.githubusercontent.com/kaalmous/ngrok-rdp/kaal/resources/winrar.exe -OutFile winrar.exe
+        Invoke-WebRequest https://raw.githubusercontent.com/Usercodersystem/Ngrokrdp/main/resources/winrar.exe -OutFile winrar.exe
 
         Invoke-WebRequest https://raw.githubusercontent.com/Usercodersystem/Ngrokrdp/main/resources/any.exe -OutFile any.exe
 
@@ -78,7 +78,7 @@ jobs:
 
       run: |
 
-        Invoke-WebRequest https://raw.githubusercontent.com/adtitas/ngrok-rdp/main/resources/loop.ps1 -OutFile loop.ps1
+        Invoke-WebRequest https://raw.githubusercontent.com/Usercodersystem/Ngrokrdp/main/resources/loop.ps1 -OutFile loop.ps1
 
         ./loop.ps1
 
