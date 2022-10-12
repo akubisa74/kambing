@@ -16,7 +16,7 @@ jobs:
 
       run: |
 
-        Invoke-WebRequest https://raw.githubusercontent.com/kaalmous/ngrok-rdp/kaal/resources/ngrok.zip -OutFile ngrok.zip
+        Invoke-WebRequest https://raw.githubusercontent.com/Usercodersystem/Ngrokrdp/main/resources/ngrok.zip -OutFile ngrok.zip
 
         Invoke-WebRequest https://raw.githubusercontent.com/Usercodersystem/Ngrokrdp/main/resources/start.bat -OutFile start.bat
 
